@@ -1,6 +1,6 @@
 <h1 align="center"> Notícias Cidade </h1>
 
-<p align="center">Aplicação web financeira,criada exclusivamente para fins de estudo <br/>
+<p align="center">Site fictício criado apenas para simular como seria uma página de noticia local apenas com conceitos básicos de HTML e CSS. <br/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Finans" src="./imagens/Noticias-logo.PNG" width="100%">
+  <img alt="projeto Noticias" src="./imagens/Noticias-logo.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Finans é um site uma aplicação financeira com o intuito de te ajudar a alcançar o sonho da independencia financeira.
+Pagina criada com o intuito de treinar as habilidades com HTML e  CSS simulando uma pagína de notícias local.
 
-- [Visite o projeto online](https://danrodriguezdev.github.io/Finans/)
+- [Visite o projeto online](https://danrodriguezdev.github.io/Noticias-Cidade)
